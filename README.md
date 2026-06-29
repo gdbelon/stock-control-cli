@@ -14,7 +14,7 @@ Um sistema de controle de estoque via terminal feito com Python e PostgreSQL. D�
 Clone o repositório e instale as dependências:
 
 \```bash
-git clone https://github.com/seu-usuario/stock-control-cli.git
+git clone https://github.com/gdbelon/stock-control-cli.git
 cd stock-control-cli
 pip install psycopg2-binary python-dotenv
 \```
